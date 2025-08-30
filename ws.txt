@@ -14,7 +14,7 @@ https://api.whatsapp.com/send/?phone=18079091251&text&app_absent=0
 https://api.whatsapp.com/send/?phone=447407659962&text&app_absent=0
 https://api.whatsapp.com/send/?phone=18079091880&text&app_absent=0
 https://api.whatsapp.com/send/?phone=18079091824&text&app_absent=0
-https://api.whatsapp.com/send/?phone=18079091301&text&app_absent=0
+
 https://api.whatsapp.com/send/?phone=212620935831&text&app_absent=0
 https://api.whatsapp.com/send/?phone=18258075691&text&app_absent=0
 https://api.whatsapp.com/send/?phone=18079091496&text&app_absent=0
